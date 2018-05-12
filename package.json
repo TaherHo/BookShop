@@ -1,0 +1,24 @@
+{
+  "name": "bookshop",
+  "version": "1.0.0",
+  "description": "show the active book from a list of books whithin react und redux",
+  "main": "app.js",
+  "dependencies": {
+    "react-dom": "^16.3.2",
+    "react": "^16.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaherHo/BookShop.git"
+  },
+  "author": "taho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaherHo/BookShop/issues"
+  },
+  "homepage": "https://github.com/TaherHo/BookShop#readme"
+}
